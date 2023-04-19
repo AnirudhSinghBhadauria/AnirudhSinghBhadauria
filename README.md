@@ -12,9 +12,9 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/35/null/css3.png" />
 
-<img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/35/null/javascript--v1.png" />
+<img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/33/null/javascript--v1.png" />
 
-<img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/35/null/react-native.png" />
+<img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/33/null/react-native.png" />
 
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/35/null/git.png" />
 
@@ -22,8 +22,13 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/35/null/sass.png" />
 
+<img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/33/null/figma.png" />
+
+<img align="left" alt="Figma" style="padding:5px 10px;" src="https://img.icons8.com/doodle/45/null/gimp.png" />
+
 <img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/35/null/bootstrap.png" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/tailwindcss.png" />
+
 <br />
 <br />
