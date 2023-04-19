@@ -8,22 +8,22 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 ## ✨ Languages and Tools
 
-<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/color/40/null/html-5--v1.png" />
+<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/color/35/null/html-5--v1.png" />
 
-<img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/40/null/css3.png" />
+<img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/35/null/css3.png" />
 
-<img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/40/null/javascript--v1.png" />
+<img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/35/null/javascript--v1.png" />
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/35/null/react-native.png" />
 
-<img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/40/null/git.png" />
+<img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/35/null/git.png" />
 
-<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color-glass/40/null/github--v1.png" />
+<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color-glass/35/null/github--v1.png" />
 
-<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/40/null/sass.png" />
+<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/35/null/sass.png" />
 
-<img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/40/null/bootstrap.png" />
+<img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/35/null/bootstrap.png" />
 
-<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/40/null/tailwindcss.png" />
+<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/tailwindcss.png" />
 <br />
 <br />
