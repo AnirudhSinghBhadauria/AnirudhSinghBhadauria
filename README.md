@@ -8,17 +8,22 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 ## ✨ Languages and Tools
 
-<img align="left" alt="HTML" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/color/40/null/html-5--v1.png" />
 
-<img align="left" alt="Sass" style="padding:15px;" src="https://img.icons8.com/color-glass/48/null/github--v1.png" />
+<img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/40/null/css3.png" />
 
-<img align="left" alt="Sass" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/40/null/javascript--v1.png" />
 
-<img align="left" alt="Bootstrap" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Tailwind" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/35/null/react-native.png" />
+
+<img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/40/null/git.png" />
+
+<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color-glass/40/null/github--v1.png" />
+
+<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/40/null/sass.png" />
+
+<img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/40/null/bootstrap.png" />
+
+<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/40/null/tailwindcss.png" />
 <br />
 <br />
