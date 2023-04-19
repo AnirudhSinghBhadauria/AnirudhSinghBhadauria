@@ -40,10 +40,10 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/firebase.png" />
 <br/>
+<br/>
 
 ## **⚡ Stats**
 
 ![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs,prs&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSinghBhadauria&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
