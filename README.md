@@ -39,6 +39,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <img align="left" alt="Tailwind" width='25px' style="padding:13px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/vecel.png?alt=media&token=321dd0a9-5e6d-4427-8881-fc995d5c1188" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/firebase.png" />
+<br/>
 
 ## **⚡ Stats**
 
