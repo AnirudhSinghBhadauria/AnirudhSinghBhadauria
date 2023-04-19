@@ -16,7 +16,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/33/null/react-native.png" />
 
-<img align="left" alt="React" width='85px' style="padding:30px 10px; transform: translateY(10px)" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c52702a3-eec1-4b1f-a504-da0a2337b659" />
+<img align="left" alt="next" width='38px' style="padding:8px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c96879a5-d28a-4a2d-85b4-fdcb5f95d20c" />
 
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/35/null/git.png" />
 
@@ -26,7 +26,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/33/null/figma.png" />
 
-<img align="left" alt="Figma" style="padding:5px 10px;" src="https://img.icons8.com/doodle/45/null/gimp.png" />
+<img align="left" alt="gimp" style="padding:5px 10px;" src="https://img.icons8.com/doodle/45/null/gimp.png" />
 
 <img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/35/null/bootstrap.png" />
 
