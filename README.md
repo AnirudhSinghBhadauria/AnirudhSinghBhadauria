@@ -16,7 +16,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/33/null/react-native.png" />
 
-<img align="left" alt="React" width='95px' style="padding:10px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c52702a3-eec1-4b1f-a504-da0a2337b659" />
+<img align="left" alt="React" width='95px' style="padding:30px 10px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c52702a3-eec1-4b1f-a504-da0a2337b659" />
 
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/35/null/git.png" />
 
