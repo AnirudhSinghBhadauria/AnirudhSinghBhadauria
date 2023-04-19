@@ -14,6 +14,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <img align="left" alt="React" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="Git" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
+<img align="left" alt="Sass" style="padding:15px;" src="https://img.icons8.com/color-glass/48/null/github--v1.png" />
 
 <img align="left" alt="Sass" width="26px" style="padding:15px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
 
