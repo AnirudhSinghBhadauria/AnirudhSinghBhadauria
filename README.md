@@ -16,7 +16,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/33/null/react-native.png" />
 
-<img align="left" alt="next" width='38px' style="padding:8px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c96879a5-d28a-4a2d-85b4-fdcb5f95d20c" />
+<img align="left" alt="next" width='35px' style="padding:8px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/next.png?alt=media&token=c96879a5-d28a-4a2d-85b4-fdcb5f95d20c" />
 
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/35/null/git.png" />
 
@@ -31,6 +31,8 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <img align="left" alt="Bootstrap" style="padding:10px;" src="https://img.icons8.com/color/35/null/bootstrap.png" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/tailwindcss.png" />
+
+<img align="left" alt="Tailwind" width='30px' style="padding:13px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/vecel.png?alt=media&token=321dd0a9-5e6d-4427-8881-fc995d5c1188" />
 
 <br />
 <br />
