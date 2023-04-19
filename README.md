@@ -24,7 +24,9 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/35/null/sass.png" />
 
-<img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/33/null/figma.png" />
+<img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/31/null/figma.png" />
+
+<img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/color-glass/35/null/behance.png" />
 
 <img align="left" alt="gimp" style="padding:5px 10px;" src="https://img.icons8.com/doodle/45/null/gimp.png" />
 
@@ -32,7 +34,10 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/tailwindcss.png" />
 
+<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/free-code-camp.png" />
+
 <img align="left" alt="Tailwind" width='30px' style="padding:13px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/vecel.png?alt=media&token=321dd0a9-5e6d-4427-8881-fc995d5c1188" />
 
+<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/35/null/visual-studio-code-2019.png" />
 <br />
 <br />
