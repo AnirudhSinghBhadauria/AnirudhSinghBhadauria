@@ -1,2 +1,2 @@
-# AnirudhSinighBhadauria
+# Anirudh Singh Bhadauria
 Profile Readme
