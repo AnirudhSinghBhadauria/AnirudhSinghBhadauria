@@ -42,8 +42,20 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 ## **⚡ Stats**
 
+<table border="0" width='100%'>
+ <tr>
+<td>
+    
 ![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
+</td>
+<td>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSinghBhadauria&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+
+</td>
+ </tr>
+
+</table>
 
 <!-- [![YouTrack — Maintain Order In A World of Chaos](https://img.youtube.com/vi/rhAunB7UQFQ/sddefault.jpg)](https://www.youtube.com/watch?v=rhAunB7UQFQ) -->
