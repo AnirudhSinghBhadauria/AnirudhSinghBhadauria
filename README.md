@@ -63,13 +63,12 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
  <tr>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png)](https://digitalocean.com)
+[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)
 
 </td>
 <td>
 
-<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
-/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+[![A mushroom-head robot](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Codey the Codecademy mascot')](https://codecademy.com)
 
 </td>
 <td>
