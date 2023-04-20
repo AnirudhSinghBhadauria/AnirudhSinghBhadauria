@@ -63,7 +63,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
  <tr>
 <td>
 
-<a href='https://www.google.com/'><img src='./snapshots/cosmosis.png'  />Cosmosis</a>
+[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png)](https://digitalocean.com)
 
 </td>
 <td>
