@@ -45,7 +45,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <table border="0" width='100%'>
  <tr>
 <td>
-    
+
 ![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 
 </td>
@@ -55,7 +55,72 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 
 </td>
  </tr>
-
 </table>
 
-<!-- [![YouTrack — Maintain Order In A World of Chaos](https://img.youtube.com/vi/rhAunB7UQFQ/sddefault.jpg)](https://www.youtube.com/watch?v=rhAunB7UQFQ) -->
+## **🧨 Project Snapshots**
+
+<table border="0" width='100%'>
+ <tr>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+</tr>
+
+ <tr>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+ </tr>
+<br />
+ <tr>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+<td>
+
+<a href='https://www.google.com/'><img src='https://mir-s3-cdn-cf.behance.net
+/project_modules/1400/03d011164756167.63fc8433e94b4.png'  />Cosmosis</a>
+
+</td>
+ </tr>
+
+</table>
