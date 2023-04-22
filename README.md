@@ -46,12 +46,12 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
  <tr>
 <td>
 
-![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs&show_icons=true&theme=ayu-mirage&hide_border=true)
 
 </td>
 <td>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSinghBhadauria&hide=html&layout=compact&langs_count=6&theme=vision-friendly-dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSinghBhadauria&hide=html&layout=compact&langs_count=6&theme=ayu-mirage&hide_border=true)
 
 </td>
  </tr>
@@ -64,7 +64,6 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <td>
 
 [![Everything Shivpuri](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e77e5e168517879.643c47c336755.png)](https://github.com/AnirudhSinghBhadauria/Everything-Shivpuri)Everything Shivpuri
-
 </td>
 <td>
 
