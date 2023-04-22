@@ -63,18 +63,18 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
  <tr>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Everything Shivpuri](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e77e5e168517879.643c47c336755.png)](https://github.com/AnirudhSinghBhadauria/Everything-Shivpuri)Everything Shivpuri
 
 </td>
 <td>
 
-[![A mushroom-head robot](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Codey the Codecademy mascot')](https://codecademy.com)Cosmosis
+[![Cosmosis](https://mir-s3-cdn-cf.behance.net/project_modules/1400/54d0a9164756167.63fc8434084dd.png)](https://github.com/AnirudhSinghBhadauria/Cosmosis)Cosmosis
 
 </td>
 <td>
 
-[![Will AI Replace Programmers? - My take](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png)](https://www.youtube.com/watch?v=9vjZ2LoerRw)
-Cosmosis
+[![Centre of Exellence](https://mir-s3-cdn-cf.behance.net/project_modules/fs/6723d4168953769.6444092625fb3.png)](https://github.com/AnirudhSinghBhadauria/Center-Of-Excellence-UIT-RGPV-Shivpuri)
+Centre of Exellence
 
 </td>
 </tr>
@@ -82,17 +82,17 @@ Cosmosis
  <tr>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Netflix-Clone](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e2cc77168836349.644172c20a9e7.png)](https://github.com/AnirudhSinghBhadauria/Netflix-Clone)Netflix-Clone
 
 </td>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Museum of Candy](https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a8b2f168836769.6441746e539e8.png)](https://github.com/AnirudhSinghBhadauria/Museum-of-Candy)Museum of Candy
 
 </td>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Restaurant - Order Food](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c6f4d0168840781.644182c920506.png)](https://github.com/AnirudhSinghBhadauria/Restaurant-Order-Food)Restaurant - Order Food
 
 </td>
  </tr>
@@ -100,17 +100,17 @@ Cosmosis
  <tr>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Inkwell Chronicles](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c0b0fd168960489.64442d4deca0d.png)](https://github.com/AnirudhSinghBhadauria/blog-next)Inkwell Chronicles
 
 </td>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Cosmosis](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png)](https://github.com/AnirudhSinghBhadauria/Cosmosis)Cosmosis
 
 </td>
 <td>
 
-[![Alt text](https://mir-s3-cdn-cf.behance.net/project_modules/1400/03d011164756167.63fc8433e94b4.png 'Cosmosis')](https://digitalocean.com)Cosmosis
+[![Everything Shivpuri](https://mir-s3-cdn-cf.behance.net/project_modules/fs/968797168517879.644424bf69091.png)](https://github.com/AnirudhSinghBhadauria/Everything-Shivpuri)Everything Shivpuri
 
 </td>
  </tr>
