@@ -4,7 +4,7 @@
 
 Hello there! I'm a passionate Software-Engineer with the purpose of learning as much as I can to have the ability to provide and help the entire world with technology advancing projects/products. I'm currently working on personal projects and improving my React, NEXT skills.
 
-## **✨ Languages and Tools**
+<h2><b>✨ Languages and Tools</b></h2>
 
 <img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/color/30/null/html-5--v1.png" />
 
@@ -40,7 +40,7 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <br/>
 <br/>
 
-## **⚡ Stats**
+<h2><b>⚡ Stats</b></h2>
 
 <table border="0" width='100%'>
  <tr>
