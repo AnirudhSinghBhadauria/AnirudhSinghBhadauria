@@ -40,22 +40,6 @@ Hello there! I'm a passionate Software-Engineer with the purpose of learning as 
 <br/>
 <br/>
 
-<h2><b>⚡ Stats</b></h2>
-
-<table border="0" width='100%'>
- <tr>
-<td>
-
-![Anirudh GitHub stats](https://github-readme-stats.vercel.app/api?username=AnirudhSinghBhadauria&&hide=contribs&show_icons=true&theme=ayu-mirage&hide_border=true)
-
-</td>
-<td>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnirudhSinghBhadauria&hide=html&layout=compact&langs_count=6&theme=ayu-mirage&hide_border=true)
-
-</td>
- </tr>
-</table>
 
 ## **🧨 Project Snapshots**
 
