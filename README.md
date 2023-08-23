@@ -20,14 +20,15 @@ Hello there! I'm a passionate Software Engineer and a avid learner. Currently wo
 
 <img  align="left" alt="prisma"
  style="padding:10px;" 
-height="30px"  src="https://firebasestorage.googleapis.com/v0/b/server-actions-1971f.appspot.com/o/planetscale_logo_icon_248841.png?alt=media&token=950fcd58-f5db-4662-b995-8504689c3e7d" alt="prisma-orm"/>
+height="28px"  
+width="26px" src="https://firebasestorage.googleapis.com/v0/b/server-actions-1971f.appspot.com/o/hemlo.png?alt=media&token=8e0f9d8c-a74f-4c3d-a6e4-8e7e2216bd3a" alt="prisma-orm"/>
 
 <img  align="left" alt="sanity"
  style="padding:10px;" 
-height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" alt="prisma-orm"/>
+height="24px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" alt="prisma-orm"/>
 
 <img  align="left" alt="prisma"
- style="padding:10px;" src="https://img.icons8.com/color/28/prisma-orm.png" alt="prisma-orm"/>
+ style="padding:10px;" src="https://img.icons8.com/color/27/prisma-orm.png" alt="prisma-orm"/>
 
 <img align="left" alt="mongodb"
  style="padding:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/29/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
