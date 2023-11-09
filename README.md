@@ -1,8 +1,8 @@
 # 🌃 Anirudh Singh Bhadauria
 
-**`NEXT Developer | REACT Developer | T3 `**
+**`T3 DEVELOPER | NEXT.JS | REACT.JS | TRPC | TAILWINDCSS | PRISMA | PLANETSCALE`**
 
-Hello there! I'm a passionate Software Engineer and a avid learner. Currently working on personal projects and improving my React, NEXT skills with Prisma, Planetscale and Type safety collectively **T3 stack**.
+Hello there 👋 I'm a passionate **Full Stack Developer** and a avid learner. Currently working on personal projects, improving Development skills, trying to make the ends meet! Liked my projects? do star 🌟 them, maybe checkout my Linkedin profile too!
 
 <h2><b>✨ Languages and Tools</b></h2>
 
@@ -54,14 +54,14 @@ height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" a
 
 <table border="0" width='100%'>
  <tr>
-<td>
+ <td>
 
-[![Everything Shivpuri](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e77e5e168517879.643c47c336755.png)](https://github.com/AnirudhSinghBhadauria/Everything-Shivpuri)Everything Shivpuri
+[![Stereotype](https://ik.imagekit.io/kvap7rsky/dash-d-1.png?updatedAt=1699469787633)](https://github.com/AnirudhSinghBhadauria/stereotype)Stereotype
 
 </td>
 <td>
 
-[![Cosmosis](https://mir-s3-cdn-cf.behance.net/project_modules/1400/54d0a9164756167.63fc8434084dd.png)](https://github.com/AnirudhSinghBhadauria/Cosmosis)Cosmosis
+[![Everything Shivpuri](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e77e5e168517879.643c47c336755.png)](https://github.com/AnirudhSinghBhadauria/Everything-Shivpuri)Everything Shivpuri
 
 </td>
 <td>
@@ -73,15 +73,9 @@ Centre of Exellence
 </tr>
 
  <tr>
-
 <td>
 
-[![Museum of Candy](https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a8b2f168836769.6441746e539e8.png)](https://github.com/AnirudhSinghBhadauria/Museum-of-Candy)Museum of Candy
-
-</td>
-<td>
-
-[![Centre of Excellence](https://mir-s3-cdn-cf.behance.net/project_modules/fs/43972a178350021.64e6578912aa5.png)](https://github.com/AnirudhSinghBhadauria/centre-excellence)Centre of Excellence
+[![Cosmosis](https://mir-s3-cdn-cf.behance.net/project_modules/1400/54d0a9164756167.63fc8434084dd.png)](https://github.com/AnirudhSinghBhadauria/Cosmosis)Cosmosis
 
 </td>
 <td>
@@ -89,12 +83,17 @@ Centre of Exellence
 [![Netflix-Clone](https://mir-s3-cdn-cf.behance.net/project_modules/fs/e2cc77168836349.644172c20a9e7.png)](https://github.com/AnirudhSinghBhadauria/Netflix-Clone)Netflix Landing Clone
 
 </td>
+<td>
+
+[![Centre of Excellence](https://mir-s3-cdn-cf.behance.net/project_modules/fs/43972a178350021.64e6578912aa5.png)](https://github.com/AnirudhSinghBhadauria/centre-excellence)Centre of Excellence
+
+</td>
  </tr>
 <br />
  <tr>
-<td>
+ <td>
 
-[![Inkwell Chronicles](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c0b0fd168960489.64442d4deca0d.png)](https://github.com/AnirudhSinghBhadauria/blog-next)Inkwell Chronicles
+[![Stereotype](https://ik.imagekit.io/kvap7rsky/post-d-orange.png?updatedAt=1699469792756)](https://github.com/AnirudhSinghBhadauria/stereotype)Stereotype
 
 </td>
 <td>
