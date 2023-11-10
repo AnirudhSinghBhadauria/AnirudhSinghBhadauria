@@ -9,7 +9,7 @@
 - 👩🏻‍🏫 I love working on side projects; you can find them all here, so please take a look.
 - 🧭 Liked my projects? Give them a star 🌟
 - 🎭 Any kind of contributions or collaborations are appreciated. 
-- 📫 Please reach out to me, How to reach me? Check social links below.
+- 📫 Please reach out to me. How to reach me? Check social links below.
     - Feel free to contact me directly at [<strong>imanirudhbhadauria@proton.me</strong>](mailto:imanirudhbhadauria@proton.me)
     - Connect with me on [Linkedin!](https://www.linkedin.com/in/anirudhsinghbhadauria/)
     - I post regularly on [X too..](https://twitter.com/LieCheatSteal_)
