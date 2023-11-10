@@ -1,18 +1,18 @@
-<h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Anirudh Singh Bhadauria</h1>
+<h1 align="center"> Hello, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px" /> I'm Anirudh Singh Bhadauria</h1>
 
 ### 👨‍💻: About Me 
 - 👨‍💼 Pronouns: He/Him
 - 💼 I’m a Full Stack Developer working with T3 stack.
-- 📋 I make end-to-end, user friendly web applicaitons.
+- 📋 I create end-to-end, user-friendly web applications.
 - 🎒 I've done 4 internships and trainings in decorated firms.
 - 👩‍💼 If you're a Hiring Manager, please checkout my [resume!](https://cdn.sanity.io/files/aftdl3p2/production/fe064f23f3db58fba577f8b88490c73f9da85997.pdf)
-- 👩🏻‍🏫 I love doing side projects, all of them are here, please check them out.
-- 🧭 Liked my projects? Do star them.
-- 🎭 Any kind of contributions or collaborations are appritiated. 
-- 📫 Please reach me out! How to reach me? Check social links below.
+- 👩🏻‍🏫 I love working on side projects; you can find them all here, so please take a look.
+- 🧭 Liked my projects? Give them a star 🌟
+- 🎭 Any kind of contributions or collaborations are appreciated. 
+- 📫 Please reach out to me, How to reach me? Check social links below.
     - Feel free to contact me directly at [<strong>imanirudhbhadauria@proton.me</strong>](mailto:imanirudhbhadauria@proton.me)
     - Connect with me on [Linkedin!](https://www.linkedin.com/in/anirudhsinghbhadauria/)
-    - I post regularly on [X too..](https://twitter.com/LieCheatSteal)
+    - I post regularly on [X too..](https://twitter.com/LieCheatSteal_)
     - Here is my [Linktree](https://linktr.ee/anirudhsinghbhadauria), you will find all the other links here!
 
 <h2><b>✨ Languages and Tools</b></h2>
