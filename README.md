@@ -5,7 +5,7 @@
 - 💼 I’m a Full Stack Developer working with T3 stack.
 - 📋 I create end-to-end, user-friendly web applications.
 - 🎒 I've done 4 internships and trainings in decorated firms.
-- 👩‍💼 If you're a Hiring Manager, please checkout my [resume!](https://cdn.sanity.io/files/aftdl3p2/production/fe064f23f3db58fba577f8b88490c73f9da85997.pdf)
+- 👩‍💼 If you're a Hiring Manager, please checkout my [resume!](https://ik.imagekit.io/kvap7rsky/resume.pdf?updatedAt=1707572553324)
 - 👩🏻‍🏫 I love working on side projects; you can find them all here, so please take a look.
 - 🧭 Liked my projects? Give them a star 🌟
 - 🎭 Any kind of contributions or collaborations are appreciated. 
