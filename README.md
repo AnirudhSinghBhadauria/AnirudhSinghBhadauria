@@ -2,8 +2,9 @@
 
 ### 👨‍💻: About Me 
 - 👨‍💼 Pronouns: He/Him
-- 💼 I’m a Full Stack Developer working with T3 stack.
-- 📋 I create end-to-end, user-friendly web applications.
+- 💼 I'm a Full Stack Developer & Data Engineer, architecting digital ecosystems.
+- 📋 Crafting end-to-end web applications with T3 stack.
+- 📊 Transforming data into intelligent, user-friendly solutions.
 - 🎒 I've done 4 internships and trainings in decorated firms.
 - 👩‍💼 If you're a Hiring Manager, please checkout my [resume!](https://ik.imagekit.io/kvap7rsky/resume.pdf?updatedAt=1707572553324)
 - 👩🏻‍🏫 I love working on side projects; you can find them all here, so please take a look.
