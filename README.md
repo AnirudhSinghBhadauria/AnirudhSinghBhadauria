@@ -24,7 +24,7 @@
 
 <img align="left" style="padding:10px;" src="https://img.icons8.com/color/31/typescript.png" alt="typescript"/>
 
-<img align="left" alt="pyspark" witdth="30px" style="padding:10px;" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" />
+<img align="left" alt="pyspark" width="30px" style="padding:10px;" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" />
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/30/null/react-native.png" />
 
