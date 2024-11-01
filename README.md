@@ -45,7 +45,6 @@ height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" a
 <img align="left" alt="mongodb"
  style="padding:10px;" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/29/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo"/>
 
-
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/30/null/git.png" />
 
 <img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color-glass/30/null/github--v1.png" />
@@ -55,8 +54,6 @@ height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" a
 <img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/28/null/figma.png" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/tailwindcss.png" />
-
-<img align="left" alt="Tailwind" width='25px' style="padding:13px;" src="https://firebasestorage.googleapis.com/v0/b/everything-shivpuri-c7a4f.appspot.com/o/vecel.png?alt=media&token=321dd0a9-5e6d-4427-8881-fc995d5c1188" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/firebase.png" />
 <br/>
