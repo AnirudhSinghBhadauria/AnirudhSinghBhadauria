@@ -36,8 +36,8 @@ height="28px"
 width="27px" src="https://firebasestorage.googleapis.com/v0/b/server-actions-1971f.appspot.com/o/hemlo.png?alt=media&token=8e0f9d8c-a74f-4c3d-a6e4-8e7e2216bd3a" alt="prisma-orm"/>
 
 <img  align="left" alt="numpy"
- style="padding:10px;" 
- src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/>
+ style="padding:10px;"
+ src="https://img.icons8.com/?size=30&id=aR9CXyMagKIS&format=png&color=000000"/>
 
 <img  align="left" alt="prisma"
  style="padding:10px;" src="https://img.icons8.com/color/27/prisma-orm.png" alt="prisma-orm"/>
@@ -47,7 +47,7 @@ width="27px" src="https://firebasestorage.googleapis.com/v0/b/server-actions-197
 
 <img align="left" alt="Git" style="padding:10px;" src="https://img.icons8.com/color/30/null/git.png" />
 
-<img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color-glass/30/null/github--v1.png" />
+<img align="left" alt="pandas" style="padding:10px;" src="https://img.icons8.com/?size=30&id=xSkewUSqtErH&format=png&color=000000" />
 
 <img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/30/null/sass.png" />
 
