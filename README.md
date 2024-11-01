@@ -18,7 +18,7 @@
 
 <h2><b>✨ Languages and Tools</b></h2>
 
-<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/color/30/null/html-5--v1.png" />
+<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/?size=30&id=13441&format=png&color=000000" />
 
 <img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/30/null/css3.png" />
 
