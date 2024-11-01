@@ -18,13 +18,13 @@
 
 <h2><b>✨ Languages and Tools</b></h2>
 
-<img align="left" alt="HTML" style="padding:10px;" src="https://img.icons8.com/?size=30&id=13441&format=png&color=000000" />
-
-<img align="left" alt="CSS" style="padding:10px;" src="https://img.icons8.com/fluency/30/null/css3.png" />
+<img align="left" alt="python" style="padding:10px;" src="https://img.icons8.com/?size=30&id=13441&format=png&color=000000" />
 
 <img align="left" alt="JavaScript" style="padding:10px;" src="https://img.icons8.com/color/30/null/javascript--v1.png" />
 
 <img align="left" style="padding:10px;" src="https://img.icons8.com/color/31/typescript.png" alt="typescript"/>
+
+<img align="left" alt="pyspark" witdth="30px" height="8.1px" style="padding:10px;" src="https://spark.apache.org/docs/latest/api/python/_static/spark-logo-reverse.png" />
 
 <img align="left" alt="React" style="padding:10px;" src="https://img.icons8.com/color/30/null/react-native.png" />
 
