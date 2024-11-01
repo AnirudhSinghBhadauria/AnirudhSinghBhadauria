@@ -35,9 +35,9 @@
 height="28px"  
 width="27px" src="https://firebasestorage.googleapis.com/v0/b/server-actions-1971f.appspot.com/o/hemlo.png?alt=media&token=8e0f9d8c-a74f-4c3d-a6e4-8e7e2216bd3a" alt="prisma-orm"/>
 
-<img  align="left" alt="sanity"
+<img  align="left" alt="numpy"
  style="padding:10px;" 
-height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" alt="prisma-orm"/>
+ src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"/>
 
 <img  align="left" alt="prisma"
  style="padding:10px;" src="https://img.icons8.com/color/27/prisma-orm.png" alt="prisma-orm"/>
@@ -51,11 +51,11 @@ height="25px"  src="https://avatars.githubusercontent.com/u/17177659?s=48&v=4" a
 
 <img align="left" alt="Sass" style="padding:10px;" src="https://img.icons8.com/color/30/null/sass.png" />
 
-<img align="left" alt="Figma" style="padding:10px;" src="https://img.icons8.com/fluency/28/null/figma.png" />
+<img align="left" alt="figma" style="padding:10px;" src="https://img.icons8.com/fluency/28/null/figma.png" />
 
 <img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/tailwindcss.png" />
 
-<img align="left" alt="Tailwind" style="padding:10px;" src="https://img.icons8.com/color/30/null/firebase.png" />
+<img align="left" alt="firebase" style="padding:10px;" src="https://img.icons8.com/color/30/null/firebase.png" />
 <br/>
 <br/>
 
